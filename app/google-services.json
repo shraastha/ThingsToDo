@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068318359853",
+    "firebase_url": "https://geofire-6904e.firebaseio.com",
+    "project_id": "geofire-6904e",
+    "storage_bucket": "geofire-6904e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068318359853:android:02994be0b9234de2",
+        "android_client_info": {
+          "package_name": "com.example.user.thingstodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068318359853-kg75as8fje7qgdmos77ge1f5hhnpiep5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.thingstodo",
+            "certificate_hash": "d13e596f47a687f9d1345c23c9df6d0cae64e65c"
+          }
+        },
+        {
+          "client_id": "1068318359853-h0in6v4jkue0dgv8tq1t2moj7h98bfoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlVjq5JIHwiGbPwN_7_S1itlUHe6qde1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068318359853-h0in6v4jkue0dgv8tq1t2moj7h98bfoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
